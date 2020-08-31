@@ -1,0 +1,4 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/rocks/project_test/project_test.srcs/sources_1/new/project_test.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'Car_Parking_System_VHDL'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/rocks/project_test/project_test.srcs/sim_1/new/testbench.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'tb_Car_Parking_System_VHDL'
